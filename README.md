@@ -7,4 +7,4 @@ Contains the CAD files used for *in-vitro* experiments and domains of the fluid-
 Raw LabView measurement data for the direct pressure measurements. The raw data is in volts and need to be multiplied by 100 to obtain pressure in mmHg. The columns labeled Millar 1 and Millar 2 correspond to the inlet and outlet, respectively.
 
 ## BSI Velocity Fields
-Consists of folders containing .png files of tissue and velocity images as well as a text file containing metadata from the BSI. 
+Consist of folders containing .png files of tissue and velocity images as well as a text file containing metadata from the BSI. 
